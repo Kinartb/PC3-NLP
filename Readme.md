@@ -29,11 +29,6 @@ Referencias:
 
 BPE es un algoritmo de compresión que identifica y fusiona iterativamente los pares de símbolos consecutivos más frecuentes en un conjunto de datos, creando subpalabras de longitud variable. Este método se ha utilizado en modelos de preentrenamiento para manejar eficientemente palabras raras y fuera del vocabulario.
 
-### **Objetivos de BPE:**
-1. Crear subwords de longitud variable a partir de caracteres frecuentes.
-2. Generar un vocabulario compacto para representar palabras.
-3. Mejorar la representación de palabras raras o fuera del vocabulario (OOV) al segmentarlas en subwords conocidas.
-
 ---
 
 ## **2. Ejemplo de algoritmo BPE**
