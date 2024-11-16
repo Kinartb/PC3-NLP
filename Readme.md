@@ -202,7 +202,7 @@ if __name__ == '__main__':
   ``` 
 # Resultados:
 
-# Resultados de los Modelos RNN: Subword vs Tradicional  en binario
+# Resultados de los Modelos RNN: Subword vs Tradicional  en [binario](https://github.com/Kinartb/PC3-NLP/blob/main/binario/binario.txt)
 
 A continuación, se analizan los resultados obtenidos para dos modelos RNN entrenados para clasificación de texto: uno basado en subword embeddings (**Modelo Subword**) y otro que utiliza una tokenización tradicional (**Modelo Tradicional**).
 
