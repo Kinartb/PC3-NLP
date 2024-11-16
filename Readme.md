@@ -251,7 +251,7 @@ A continuación, se analizan los resultados obtenidos para dos modelos RNN entre
 ---
 
 
-# Resultados de los Modelos RNN: Subword vs Tradicional multiclase
+# Resultados de los Modelos RNN: Subword vs Tradicional [multiclase](https://github.com/Kinartb/PC3-NLP/blob/main/multiclase/multiclase.txt)
 
 En este análisis, se comparan dos modelos RNN: uno basado en subword embeddings (**Modelo Subword**) y otro con tokenización tradicional (**Modelo Tradicional**). Los resultados se evalúan en términos de pérdida, precisión y tiempo de ejecución.
 
