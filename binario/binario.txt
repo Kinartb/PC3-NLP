@@ -1,0 +1,69 @@
+Cargando datos...
+Entrenando modelo de subwords...
+Dividiendo datos...
+
+=== Modelo Subword ===
+Epoch 1/10:
+  Perdida de entrenamiento: 0.6787, Precision de entrenamiento: 0.5524
+  Perdida de validacion: 0.5380, Precision de validacion: 0.7306
+Epoch 2/10:
+  Perdida de entrenamiento: 0.4874, Precision de entrenamiento: 0.7611
+  Perdida de validacion: 0.4220, Precision de validacion: 0.8029
+Epoch 3/10:
+  Perdida de entrenamiento: 0.4142, Precision de entrenamiento: 0.8078
+  Perdida de validacion: 0.3965, Precision de validacion: 0.8253
+Epoch 4/10:
+  Perdida de entrenamiento: 0.3808, Precision de entrenamiento: 0.8267
+  Perdida de validacion: 0.3861, Precision de validacion: 0.8290
+Epoch 5/10:
+  Perdida de entrenamiento: 0.3523, Precision de entrenamiento: 0.8422
+  Perdida de validacion: 0.3958, Precision de validacion: 0.8327
+Epoch 6/10:
+  Perdida de entrenamiento: 0.3351, Precision de entrenamiento: 0.8530
+  Perdida de validacion: 0.3831, Precision de validacion: 0.8365
+Epoch 7/10:
+  Perdida de entrenamiento: 0.3221, Precision de entrenamiento: 0.8571
+  Perdida de validacion: 0.3810, Precision de validacion: 0.8401
+Epoch 8/10:
+  Perdida de entrenamiento: 0.3104, Precision de entrenamiento: 0.8651
+  Perdida de validacion: 0.3893, Precision de validacion: 0.8348
+Epoch 9/10:
+  Perdida de entrenamiento: 0.2993, Precision de entrenamiento: 0.8706
+  Perdida de validacion: 0.3986, Precision de validacion: 0.8436
+Epoch 10/10:
+  Perdida de entrenamiento: 0.2888, Precision de entrenamiento: 0.8760
+  Perdida de validacion: 0.4048, Precision de validacion: 0.8424
+Tiempo total de ejecucion para el modelo Subword: 183.47 segundos
+
+=== Modelo Tradicional ===
+Epoch 1/10:
+  Perdida de entrenamiento: 0.6665, Precision de entrenamiento: 0.5744
+  Perdida de validacion: 0.5330, Precision de validacion: 0.7337
+Epoch 2/10:
+  Perdida de entrenamiento: 0.4726, Precision de entrenamiento: 0.7737
+  Perdida de validacion: 0.4378, Precision de validacion: 0.7999
+Epoch 3/10:
+  Perdida de entrenamiento: 0.3992, Precision de entrenamiento: 0.8183
+  Perdida de validacion: 0.3731, Precision de validacion: 0.8351
+Epoch 4/10:
+  Perdida de entrenamiento: 0.3606, Precision de entrenamiento: 0.8392
+  Perdida de validacion: 0.3968, Precision de validacion: 0.8266
+Epoch 5/10:
+  Perdida de entrenamiento: 0.3337, Precision de entrenamiento: 0.8524
+  Perdida de validacion: 0.4347, Precision de validacion: 0.8209
+Epoch 6/10:
+  Perdida de entrenamiento: 0.3149, Precision de entrenamiento: 0.8621
+  Perdida de validacion: 0.3548, Precision de validacion: 0.8518
+Epoch 7/10:
+  Perdida de entrenamiento: 0.3042, Precision de entrenamiento: 0.8696
+  Perdida de validacion: 0.3539, Precision de validacion: 0.8458
+Epoch 8/10:
+  Perdida de entrenamiento: 0.2881, Precision de entrenamiento: 0.8764
+  Perdida de validacion: 0.3712, Precision de validacion: 0.8465
+Epoch 9/10:
+  Perdida de entrenamiento: 0.2812, Precision de entrenamiento: 0.8817
+  Perdida de validacion: 0.3539, Precision de validacion: 0.8468
+Epoch 10/10:
+  Perdida de entrenamiento: 0.2731, Precision de entrenamiento: 0.8842
+  Perdida de validacion: 0.3869, Precision de validacion: 0.8427
+Tiempo total de ejecucion para el modelo Tradicional: 285.57 segundos
