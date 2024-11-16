@@ -5,18 +5,17 @@ Alumno: Arturo Hinostroza Olivera
 Archivos subidos:
 
 - **BPE.iypbn**: Ejemplo básico de embeddings con BPE
-- **PC3_binario.py**: contiene los archivos
-  
-- **subword.model**: Contiene la configuración interna y las reglas necesarias para realizar la segmentación de texto en subwords.
-- **subowrd.vocab**: Este archivo contiene el vocabulario generado durante el entrenamiento con el dataset.
--- **PC3_binario.py**: Archivo de clasificación binaria con usando **IMDB Dataset of 50K Movie Reviews**, dataset de películas y ver si es una buena o mala película.
--- **binario.txt**: Resultados del código binario
+- **binario**: contiene los archivos 
+  - **subword.model**: Contiene la configuración interna y las reglas necesarias para realizar la segmentación de texto en subwords.
+  - **subowrd.vocab**: Este archivo contiene el vocabulario generado durante el entrenamiento con el dataset.
+  - **PC3_binario.py**: Archivo de clasificación binaria con usando **IMDB Dataset of 50K Movie Reviews**, dataset de películas y ver si es una buena o mala película.
+  - **binario.txt**: Resultados del código binario
 
-- **PC3_multiclase.py**: contiene los archivos
--- **subwordmulti.model**: Contiene la configuración interna y las reglas necesarias para realizar la segmentación de texto en subwords.
--- **subowrdmulti.vocab**: Este archivo contiene el vocabulario generado durante el entrenamiento con el dataset.
--- **PC3_multiclase.py**: Archivo de clasificación multiclase (5 clases) usando **# Amazon Fine Food Reviews**, dataset de comida y ver su valoración del 1 al 5.
--- **multiclase.txt**: Resultados del código multiclase.
+- **multiclase**: contiene los archivos
+  - **subwordmulti.model**: Contiene la configuración interna y las reglas necesarias para realizar la segmentación de texto en subwords.
+  - **subowrdmulti.vocab**: Este archivo contiene el vocabulario generado durante el entrenamiento con el dataset.
+  - **PC3_multiclase.py**: Archivo de clasificación multiclase (5 clases) usando **# Amazon Fine Food Reviews**, dataset de comida y ver su valoración del 1 al 5.
+  - **multiclase.txt**: Resultados del código multiclase.
 
 Referencias:
 - [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) 
