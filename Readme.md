@@ -7,8 +7,8 @@ Archivos subidos:
 - **BPE.iypbn**: Ejemplo básico de embeddings con BPE
 - **PC3_binario.py**: contiene los archivos
   
--- **subword.model**: Contiene la configuración interna y las reglas necesarias para realizar la segmentación de texto en subwords.
--- **subowrd.vocab**: Este archivo contiene el vocabulario generado durante el entrenamiento con el dataset.
+- **subword.model**: Contiene la configuración interna y las reglas necesarias para realizar la segmentación de texto en subwords.
+- **subowrd.vocab**: Este archivo contiene el vocabulario generado durante el entrenamiento con el dataset.
 -- **PC3_binario.py**: Archivo de clasificación binaria con usando **IMDB Dataset of 50K Movie Reviews**, dataset de películas y ver si es una buena o mala película.
 -- **binario.txt**: Resultados del código binario
 
