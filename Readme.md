@@ -38,7 +38,7 @@ BPE es un algoritmo de compresión que identifica y fusiona iterativamente los p
 
 ## **2. Ejemplo de algoritmo BPE**
 
-Ejemplo de BPE: [BPE.ipynb](https://example.com)
+Ejemplo de BPE: [BPE.ipynb]([https://example.com](https://github.com/Kinartb/PC3-NLP/blob/main/BPE.ipynb))
 
 # **Código**
 
